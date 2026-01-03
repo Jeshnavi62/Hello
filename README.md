@@ -1,2 +1,8 @@
-# Hello
-This is my first Repo
+{
+	"servers": {
+		"zomato-mcp-server": {
+			"url": "https://mcp-server.zomato.com/mcp",
+			"type": "http"
+		}
+	},
+}
